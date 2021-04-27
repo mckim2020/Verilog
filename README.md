@@ -20,4 +20,6 @@
 </pre>
 </code>
 
-3. 
+3. Start programming 
+
+https://iverilog.fandom.com/wiki/Installation_Guide#Installation_From_Source for more informations. 
