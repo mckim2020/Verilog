@@ -14,7 +14,7 @@
 </code>
 
 2. Go into the Verilog dir
-3. <pre>
+<pre>
 <code>
 % cd iverilog
 </pre>
